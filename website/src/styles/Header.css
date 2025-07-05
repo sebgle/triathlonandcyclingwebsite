@@ -76,6 +76,7 @@ body {
 
 .join-btn:hover {
   background: #993F00;
+  color: #fff !important;
   transform: scale(1.05);
 }
 
